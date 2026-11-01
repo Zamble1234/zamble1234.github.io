@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.zamble1234.twa",
+    "sha256_cert_fingerprints": ["78:8C:8B:BA:C6:60:3E:AD:54:A2:72:7C:14:95:40:41:B2:74:44:71:99:1C:38:14:A2:0E:96:8A:B6:80:EE:CF"]
+  }
+}]
